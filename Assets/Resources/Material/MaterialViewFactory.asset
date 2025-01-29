@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afe00a4df9602b547903a2f710c6b4e9, type: 3}
+  m_Name: MaterialViewFactory
+  m_EditorClassIdentifier: 
+  materialView: {fileID: 2092827158173058609, guid: 9f678c1fca1b235408076ac4786f8b8e, type: 3}
+  materialButtonView: {fileID: 1384261207055832834, guid: 45fd47419a9509344b8e616e62ffc98a, type: 3}
